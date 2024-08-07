@@ -55,4 +55,13 @@ TODO
 Landing page is based on [Tailwind Starter Kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation) and components from [Tailblocks](https://tailblocks.cc/) - thanks for providing an amazing landing page and components under MIT License.
 
 
+```
+<form>
+    <input type="text" id="search-input" placeholder="Search...">
+</form>
+<ul id="search-results"></ul>
+<script src="{{ "js/search.js" | relURL }}"></script>
+
+```
+
 [soopr-website]: https://www.soopr.co
